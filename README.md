@@ -36,9 +36,11 @@ Solutions to the issues mentioned above:
 
 3. To label some of the data in order to better understand the threshold
 
-4. Get more details from the alibaba website
+4. To label some of the data in order to create more powerful model and embedding 
 
-5. Add more metrics for finding the best matching products results 
+5. Get more details from the Alibaba website
+
+6. Add more metrics for finding the best matching products results 
 
 
 #### Resourses
