@@ -38,3 +38,9 @@ Solutions to the issues mentioned above:
 
 4. Get more details from the alibaba website
 
+5. Add more metrics for finding the best matching products results 
+
+
+#### Resourses
+* https://arxiv.org/pdf/1908.10084.pdf
+* https://towardsdatascience.com/two-most-common-similarity-metrics-39c37f3fe14d#9aca
