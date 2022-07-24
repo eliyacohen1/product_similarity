@@ -34,6 +34,10 @@ Solutions to the issues mentioned above:
 
 2. Make a moving window to solve the problem of limiting search
 
+3. Clustering method that get embedding vector or other vector representation and decide which of the groups he belongs to
+
+    * Three Groups - matching product, similar product, other
+
 3. To label some of the data in order to better understand the threshold
 
 4. To label some of the data in order to create more powerful model and embedding 
